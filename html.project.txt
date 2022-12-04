@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="https://medlineplus.gov/healthtopics.html"><img src="brain.jpg" height=20% width=20% align="right"></a><br>
+        <a href="https://www.doconline.com/what-we-treat/eye-problems"><img src="human-eye.webp" height=20% width=20% align="left"></a><br>
+        <img src="human structure.jpg" height=70% width=70% align="center">
+        <a href="https://medlineplus.gov/lungdiseases.html"><img src="lungs.jpg" height=20% width=20% align="left"></a><br>
+        <a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/diagnosis-treatment/drc-20353124"><img src="heart.png" height=20% width=20% align="right"></a><br>
+        <a href="https://www.mayoclinic.org/diseases-conditions/liver-problems/diagnosis-treatment/drc-20374507"><img src="liver.jpg" height=20% width=20% align="left"></a><br>
+        <a href="https://my.clevelandclinic.org/health/articles/7040-gastrointestinal-diseases"><img src="stomach.jpg" height=20% width=20% align="right"></a><br>
+        <a href="https://my.clevelandclinic.org/health/diseases/17689-kidney-failure"><img src="kidney.webp" height=20% width=20% align="right"></a><br>
+        <a href="https://medlineplus.gov/vaginaldiseases.html"><img src="f utres.jpg" height=20% width=20% align="right"></a><br>
+        <a href="https://www.healthline.com/health/sexually-transmil̥ōtted-diseases/men"><img src="m utres.jpg" height=20% width=20%></a><br>
+        <a href="https://www.webmd.com/digestive-disorders/digestive-diseases-pancreatitis"><img src="pancreas.jpg" height=20% width=20% align="left"></a>
+</body>
+</html>
